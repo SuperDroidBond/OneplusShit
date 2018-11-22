@@ -60,7 +60,7 @@
     <string name="app_name">Oneplus Special Features</string>
 
     <!-- New Options -->
-    <string name="device_extras">Oneplus Shit</string>
+    <string name="device_extras">OnePlus Shit</string>
     <string name="graphics_title">Graphics</string>
     <string name="category_vibrator">Vibrator</string>
     <string name="vib_strength_title_head">Strength</string>
@@ -72,7 +72,7 @@
     <string name="dci_mode_summary"></string>
     <string name="dci_mode_title">Wide color gamut mode</string>
     <string name="oneplus_mode_summary"></string>
-    <string name="oneplus_mode_title">Oneplus mode</string>
+    <string name="oneplus_mode_title">OnePlus mode</string>
     <string name="night_mode_summary"></string>
     <string name="night_mode_title">Night mode</string>
     <string name="display_category">Display</string>
